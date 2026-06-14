@@ -1,0 +1,28 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.jks
+*.keystore
+
+# Local configuration file
+local.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# Firebase
+google-services.json
+serviceAccountKey.json
+
+# OS
+.DS_Store
+Thumbs.db

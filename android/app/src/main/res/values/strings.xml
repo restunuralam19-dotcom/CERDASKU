@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CERDASKU</string>
+    <string name="app_tagline">Belajar Membaca, Menulis, dan Berhitung dengan Cerdas dan Menyenangkan</string>
+    
+    <!-- Authentication -->
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="forgot_password">Lupa Kata Sandi?</string>
+    <string name="sign_in_with_google">Masuk dengan Google</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="level">Level</string>
+    <string name="xp">XP</string>
+    <string name="coins">Koin</string>
+    <string name="streak">Streak</string>
+    
+    <!-- Learning Modules -->
+    <string name="membaca">Membaca</string>
+    <string name="menulis">Menulis</string>
+    <string name="berhitung">Berhitung</string>
+    
+    <!-- Messages -->
+    <string name="loading">Memuat...</string>
+    <string name="error">Terjadi Kesalahan</string>
+    <string name="retry">Coba Lagi</string>
+</resources>
